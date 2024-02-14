@@ -1,0 +1,15 @@
+/Users/abdoukarimjallow/Desktop/KJLOG/bin/Debug/net6.0/KJLOG
+/Users/abdoukarimjallow/Desktop/KJLOG/bin/Debug/net6.0/KJLOG.deps.json
+/Users/abdoukarimjallow/Desktop/KJLOG/bin/Debug/net6.0/KJLOG.runtimeconfig.json
+/Users/abdoukarimjallow/Desktop/KJLOG/bin/Debug/net6.0/KJLOG.dll
+/Users/abdoukarimjallow/Desktop/KJLOG/bin/Debug/net6.0/KJLOG.pdb
+/Users/abdoukarimjallow/Desktop/KJLOG/obj/Debug/net6.0/KJLOG.csproj.AssemblyReference.cache
+/Users/abdoukarimjallow/Desktop/KJLOG/obj/Debug/net6.0/KJLOG.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdoukarimjallow/Desktop/KJLOG/obj/Debug/net6.0/KJLOG.AssemblyInfoInputs.cache
+/Users/abdoukarimjallow/Desktop/KJLOG/obj/Debug/net6.0/KJLOG.AssemblyInfo.cs
+/Users/abdoukarimjallow/Desktop/KJLOG/obj/Debug/net6.0/KJLOG.csproj.CoreCompileInputs.cache
+/Users/abdoukarimjallow/Desktop/KJLOG/obj/Debug/net6.0/KJLOG.dll
+/Users/abdoukarimjallow/Desktop/KJLOG/obj/Debug/net6.0/refint/KJLOG.dll
+/Users/abdoukarimjallow/Desktop/KJLOG/obj/Debug/net6.0/KJLOG.pdb
+/Users/abdoukarimjallow/Desktop/KJLOG/obj/Debug/net6.0/KJLOG.genruntimeconfig.cache
+/Users/abdoukarimjallow/Desktop/KJLOG/obj/Debug/net6.0/ref/KJLOG.dll
